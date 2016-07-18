@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SensoredApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_accelerometr">Аксселерометр</string>
+    <string name="title_activity_compass">Компас</string>
+    <string name="title_activity_image_pick">ImagePickActivity</string>
+    <string name="title_activity_make_photo">MakePhotoActivity</string>
+    <string name="compass_button_ru">Компасс</string>
+    <string name="compass_button_en">Compass</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4365047507932061/6967980039</string>
+</resources>
