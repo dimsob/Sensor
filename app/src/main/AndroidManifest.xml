@@ -40,15 +40,6 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="MainActivity" />
         </activity>
-        <activity
-            android:name=".ImagePickActivity"
-            android:label="@string/title_activity_image_pick"
-            android:parentActivityName=".MainActivity"
-            android:theme="@style/AppTheme.NoActionBar">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="myapp.sobsdes.sensoredapp.MainActivity" />
-        </activity>
     </application>
 
 </manifest>
